@@ -1,0 +1,14 @@
+ {
+  "discord": {
+    "owners": ["Wutt"], 
+    "channels": [""], 
+    "prefix": ["/", " /"],
+    "token": "ODU2ODg0ODUxNjM3MjIzNDU1.YNHiNA.p9ygAjWZYR5c1Tpe328FQPnnduk" 
+  },
+  "mangadex": {
+    "account": {
+      "username": "mangadex", 
+      "password": "mangadex" 
+    }
+  }
+}
